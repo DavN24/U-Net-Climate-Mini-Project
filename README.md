@@ -1,4 +1,4 @@
-# U-Net Climate Image Reconstruction — IPSL-AID Mini Project
+# U-Net Climate Image Reconstruction — Mini Project
 
 This repository contains a small notebook-based mini-project exploring the use of a U-Net model for climate image reconstruction.
 
