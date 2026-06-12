@@ -2,8 +2,6 @@
 
 This repository contains a small notebook-based mini-project exploring the use of a U-Net model for climate image reconstruction.
 
-The objective is to test the potential of U-Net architectures for reconstructing climate-related images and fields. For this work, I used the original **IPSL-AID** project as a reference and starting point.
-
 This mini-project is based on IPSL-AID:
 
 K. Kingston et al., “IPSL-AID: Generative Diffusion Models for Climate Downscaling from Global to Regional Scales”, arXiv, 2026.
